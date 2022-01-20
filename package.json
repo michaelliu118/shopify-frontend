@@ -1,6 +1,6 @@
 {
   "name": "shopify-frontend",
-  "homtpage": 'https://michaelliu118.github.io/shopify-frontend',
+  "homtpage": "https://michaelliu118.github.io/shopify-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
