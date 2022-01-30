@@ -6,7 +6,7 @@ function App() {
   
   const [json, setJson] = useState([]);
   function fetch_NASA(){
-    fetch('https://api.nasa.gov/planetary/apod?api_key=IU9eivmyJcrULhaukgwXlbneEihkBQE2mnkf0VGE&count=3', {
+    fetch('https://api.nasa.gov/planetary/apod?api_key=UiZkqweVbm8VoiZ3YMRhMyBfLwSwW854c9g4DXie&count=3', {
       method: 'GET'
     }).then(
       res=>res.json()
